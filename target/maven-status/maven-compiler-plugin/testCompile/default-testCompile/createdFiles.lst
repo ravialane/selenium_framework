@@ -1,0 +1,9 @@
+data/ExcelReader.class
+tests/AndroidTest.class
+tests/FirstTest.class
+fwk/ConfigData.class
+fwk/BaseTest.class
+data/TestData.class
+tests/RestAssuredTest.class
+tests/LoginTest.class
+fwk/AppiumServer.class

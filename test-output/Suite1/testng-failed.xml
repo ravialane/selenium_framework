@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" parallel="methods">
+  <test name="Test(failed)" parallel="methods">
+    <classes>
+      <class name="tests.AndroidTest">
+        <methods>
+          <include name="testAndroidApp"/>
+          <include name="mandatorySetup"/>
+        </methods>
+      </class> <!-- tests.AndroidTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
